@@ -1,23 +1,21 @@
 ﻿<Properties StartupConfiguration="{62F3DC7D-0D75-4420-8E3D-2797FEDF3559}|LaytonBarneyMission2Assignment">
   <MonoDevelop.Ide.ItemProperties.LaytonBarneyMission3Assignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/GradeCalcModel.cs">
     <Files>
-      <File FileName="Views/Home/GradeCalc.cshtml" Line="11" Column="1" />
-      <File FileName="Views/Home/Index.cshtml" Line="4" Column="3" />
-      <File FileName="wwwroot/js/myScript.js" Line="33" Column="23" />
-      <File FileName="Program.cs" Line="16" Column="1" />
-      <File FileName="Views/Shared/_Layout.cshtml" Line="27" Column="19" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
       <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Models/GradeCalcModel.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LaytonBarneyMission3Assignment" expanded="True">
             <Node name="LaytonBarneyMission3Assignment" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="GradeCalcModel.cs" selected="True" />
               </Node>
-              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
